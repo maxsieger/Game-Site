@@ -152,3 +152,18 @@ body {
     transform: rotate(360deg);
   }
 }
+
+.container-gta5 {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.img-gta5 {
+  float: left;
+  border-radius: 40px;
+}
+
+.hero-title {
+  font-size: 30px;
+  color: white;
+}
